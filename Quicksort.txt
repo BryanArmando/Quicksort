@@ -1,0 +1,5 @@
+Algoritmo de Ordenamiento Quicksort
+Arreglo original
+|1||2||5||8||-9||4||5||125||124||50|
+Arreglo ordenado
+|-9||1||2||4||5||5||8||50||124||125|
